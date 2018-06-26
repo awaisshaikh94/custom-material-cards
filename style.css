@@ -1,0 +1,58 @@
+body
+{
+    overflow-x: hidden;
+}
+
+.image
+{
+    width: 180px;
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    box-shadow: 1px 5px 5px #d9d9d9;
+}
+
+.crd
+{
+    padding: 30px 20px 30px 20px;
+    border: 1px solid #e4e4e4;
+    background: #f6f6f6;
+    text-align: center;
+}
+
+.crd h3
+{
+    color: #494949;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 0 10px 0;
+}
+
+.crd p
+{
+    color: #919191;
+    font-size: 14px;
+}
+
+.crd a
+{
+    text-decoration: none;
+    background: #484848;
+    color: #fff;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+}
+
+.crd a:hover
+{
+    background: #ccc;
+    color: #484848;
+    box-shadow: 2px 2px 5px #c3c3c3;
+}
+
+.cardz {
+    padding: 50px 0 0 0;
+}
